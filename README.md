@@ -6,8 +6,8 @@
 
 **社交主页：**
 
-[哔哩哔哩首页](https://space.bilibili.com/1503877955)
-[掘金首页](https://juejin.cn/user/1214304985296439/posts)
+- [我的哔哩哔哩首页](https://space.bilibili.com/1503877955)
+- [我的掘金首页](https://juejin.cn/user/1214304985296439/posts)
 
 **技术栈 与 开发工具:**
 

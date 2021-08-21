@@ -1,6 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:sanqi377?theme=moebooru">
-
-
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=moebooru">
 
 ## 前端工程师—天平
 

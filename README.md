@@ -6,8 +6,8 @@
 
 **社交主页：**
 
-- [我的哔哩哔哩首页](https://space.bilibili.com/1503877955)
-- [我的掘金首页](https://juejin.cn/user/1214304985296439/posts)
+- [我的哔哩哔哩首页](https://space.bilibili.com/1503877955): 拥有20个技术视频，400多位粉丝，3万播放量
+- [我的掘金首页](https://juejin.cn/user/1214304985296439/posts)：发表了13篇技术文章，3000阅读
 
 **技术栈 与 开发工具:**
 
@@ -17,7 +17,7 @@
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/vite.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/less.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg"></code>
-<br />
+<br><br>
 
 
 ### github活跃度

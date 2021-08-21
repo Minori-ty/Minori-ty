@@ -1,4 +1,4 @@
-![:name](https://count.getloli.com/@:Minori-ty)
+![:name](https://count.getloli.com/@:Minori-ty?theme=moebooru)
 
 ## 前端工程师—天平
 

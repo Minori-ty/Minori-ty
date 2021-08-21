@@ -1,4 +1,4 @@
-![:name](https://count.getloli.com/Minori-ty)
+![:name](https://count.getloli.com/@:Minori-ty)
 
 ## 前端工程师—天平
 

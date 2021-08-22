@@ -6,8 +6,8 @@
 
 ### **社交主页：**
 
-- <a href="http://www.baidu.com"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>[我的哔哩哔哩首页](https://space.bilibili.com/1503877955)：拥有20个技术视频，400多位粉丝，3万播放量
-- <code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/juejin.png"></code>[我的掘金首页](https://juejin.cn/user/1214304985296439/posts)：发表了13篇技术文章，3000阅读
+- <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：拥有20个技术视频，400多位粉丝，3万播放量
+- <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/juejin.png"></code></a>：发表了13篇技术文章，3000阅读
 
 ### **技术栈:**
 

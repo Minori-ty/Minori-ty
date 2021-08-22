@@ -17,13 +17,11 @@
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/less.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/element plus.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/vant.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg"></code>
 <br><br><br>
 
 
 ### Github活跃度
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
 

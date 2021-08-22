@@ -18,6 +18,9 @@
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/element plus.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/vant.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg"></code>
+
+### 开源项目
+[![phaser3-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
 <br><br><br>
 
 

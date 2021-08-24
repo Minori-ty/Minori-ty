@@ -27,4 +27,5 @@
 ### Github活跃度
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=tokyonight&count_private=true)
 

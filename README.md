@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=moebooru">
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## 前端工程师—天平
 

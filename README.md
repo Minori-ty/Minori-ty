@@ -6,10 +6,9 @@
 
 ### **社交主页：**
 
+ <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 -   <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/bilibili.png"></code></a>：拥有 22 个技术视频，600 多位粉丝，4 万播放量
 -   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/juejin.png"></code></a>：发表了 14 篇技术文章，6000 阅读
-
- <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 ### **技术栈:**
 

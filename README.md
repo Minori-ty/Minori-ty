@@ -19,6 +19,8 @@
 <a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/vant.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/docker.png"></code></a>
 
+ <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+
 ### 开源项目
 
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)

@@ -2,14 +2,14 @@
 
 ## 前端工程师—天平
 
-热爱前端、热爱技术。工作经验两个月。喜欢参与一些开源项目的讨论。
+热爱前端、热爱技术。工作经验三个月。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：拥有 24 个技术视频，600 多位粉丝，5万播放量
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 16 篇技术文章，7000 阅读
+-   <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：拥有 26 个技术视频，600 多位粉丝，6万播放量
+-   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 18 篇技术文章，8000 阅读
 
 ### **技术栈:**
 

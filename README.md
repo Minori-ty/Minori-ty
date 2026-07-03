@@ -41,3 +41,6 @@
 ## 💻 Top Languages (Compact)
 
 ![Top Langs Compact](https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+
+
+![Metrics](https://raw.githubusercontent.com/Minori-ty/Minori-ty/main/github-metrics.svg)

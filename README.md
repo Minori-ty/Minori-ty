@@ -24,15 +24,20 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
-
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+## 📈 Activity Graph
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minori-ty&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+## 📊 GitHub Stats
+
+![Minori-ty's GitHub Stats](https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+
+## 💻 Top Languages
+
+![Top Langs](https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
+
+## 💻 Top Languages (Compact)
+
+![Top Langs Compact](https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)

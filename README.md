@@ -36,12 +36,6 @@
 
 ---
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats-phf9.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6&exclude_forks=tru&layout=compact&cache_seconds=3600&v=20260703)
-
----
-
-## 📈 Top Languages (Compact)
+## 📈 Top Languages
 
 ![Top Languages Compact](https://github-readme-stats-phf9.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6&exclude_forks=tru&cache_seconds=3600&v=20260703)

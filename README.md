@@ -32,10 +32,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-phf9.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue&exclude_forks=true&count_private=true&cache_seconds=3600&v=20260703)
+![GitHub Stats](https://github-readme-stats-phf9.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue&exclude_forks=true&count_private=true&cache_seconds=3600&v=1)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Languages Compact](https://github-readme-stats-phf9.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6&exclude_forks=tru&cache_seconds=3600&v=20260703)
+![Top Languages Compact](https://github-readme-stats-phf9.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6&exclude_forks=tru&cache_seconds=3600&v=1)
